@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.background-logo{
+    height: 200px;
+    background-image: url(img/pattern.png);
+    background-color: aqua;
+}
+
+.text-under-photo, .lorem1, .lorem-list, .table{
+    margin-top: 20px;
+}
+
