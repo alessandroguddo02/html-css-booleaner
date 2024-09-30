@@ -5,11 +5,66 @@
 
 .background-logo{
     height: 200px;
-    background-image: url(img/pattern.png);
+    background-image: url("./img/pattern.png");
     background-color: aqua;
 }
 
-.text-under-photo, .lorem1, .lorem-list, .table{
+.logo{
+    height: 200px;
+    background-image: url("./img/logo.svg");
+    background-repeat: no-repeat;
+    background-size: 200px;
+}
+.text-under-photo, .lorem1, .lorem-list, .table, .text-finisher{
     margin-top: 20px;
 }
 
+.yellow-text{
+    background-color: yellow;
+}
+
+table{
+    width: 100%;
+    height: 300px;
+}
+
+thead{
+color: white;
+background-color: blue;
+}
+
+.row-color{
+    background-color: aqua;
+}
+
+#producer-name{
+    color: aqua;
+}
+
+.info-producer{
+    color: lightgrey;
+}
+
+.interest{
+    padding: 20px;
+    color: darkgrey;
+    font-size: 30px;
+}
+
+.background-image{
+    height: 300px;
+    width: 300px;
+    background-image: url("./img/monitor.jpg");
+    display: inline-block;
+}
+
+.background-image2{
+    height: 300px;
+    width: 300px;
+    background-image: url("./img/graph.jpg");
+    display: inline-block;
+}
+
+.last{
+    width: 50%
+}
