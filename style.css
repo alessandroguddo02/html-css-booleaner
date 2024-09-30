@@ -6,7 +6,7 @@
 .background-logo{
     height: 200px;
     background-image: url("./img/pattern.png");
-    background-color: aqua;
+    background-color: blue;
 }
 
 .logo{
@@ -34,7 +34,7 @@ background-color: blue;
 }
 
 .row-color{
-    background-color: aqua;
+    background-color: blue;
 }
 
 .last{
@@ -42,7 +42,7 @@ background-color: blue;
 }
 
 #producer-name{
-    color: aqua;
+    color: blue;
 }
 
 .info-producer{
@@ -68,8 +68,6 @@ background-color: blue;
     background-image: url("./img/graph.jpg");
     
 }
-
-
 
 .interior-text{
     color: white;
