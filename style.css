@@ -37,6 +37,10 @@ background-color: blue;
     background-color: aqua;
 }
 
+.last{
+    width: 50%
+}
+
 #producer-name{
     color: aqua;
 }
@@ -55,16 +59,19 @@ background-color: blue;
     height: 300px;
     width: 300px;
     background-image: url("./img/monitor.jpg");
-    display: inline-block;
+    margin-bottom: 10px;;
 }
 
 .background-image2{
     height: 300px;
     width: 300px;
     background-image: url("./img/graph.jpg");
-    display: inline-block;
+    
 }
 
-.last{
-    width: 50%
+
+
+.interior-text{
+    color: white;
+    font-size: 20px;
 }
